@@ -25,6 +25,7 @@ wind direction (° (gr)), wind rajada maxima (m/s),
 11. For Lasso and Ridge, use CV to find the best alpha to fit into the model and standardize the training set to get a higher quality results
 12. Use r2 score as the metric to measure to predictability for each model 
 <img width="273" alt="Screen Shot 2022-09-04 at 6 19 10 PM" src="https://user-images.githubusercontent.com/63031028/188342504-c1bc6af6-9ce1-4696-a39a-7c58b09d14a9.png">
+
 13. Try using the dataset on Time Series model 
 14. Use auto arima to get the best time series model for use 
 15. Use seasonal decompose to evaluate the trend of the data
